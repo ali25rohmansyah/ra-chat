@@ -1,0 +1,14 @@
+com/rachatt/ReactNativeFlipper.java
+ com.rachatt.ReactNativeFlipper
+ com.rachatt.ReactNativeFlipper$1
+ com.rachatt.ReactNativeFlipper$2
+ com.rachatt.ReactNativeFlipper$2$1
+com/rachatt/MainActivity.java
+ com.rachatt.MainActivity
+com/rachatt/MainApplication.java
+ com.rachatt.MainApplication
+ com.rachatt.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/rachatt/BuildConfig.java
+ com.rachatt.BuildConfig
